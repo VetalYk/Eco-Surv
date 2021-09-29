@@ -1,0 +1,13 @@
+.header {
+  position: sticky;
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  padding: 20px 40px;
+  border-bottom: 1px solid rgb(239, 243, 244);
+}
+
+.item-wrapper {
+  width: 17%;
+  margin-right: 20px;
+}

@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.img-wrap {
+  padding: 20px 40px;
+  width: 300px;
+  height: auto;
+  object-fit: contain;
+}
+.img-wrap img {
+  width: 100%;
+  height: auto;
+  box-shadow: 0 0 5px rgb(0 0 0 / 30%);
+}
